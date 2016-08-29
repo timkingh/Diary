@@ -1,4 +1,4 @@
 # Diary
-# Aurthor: timkingh
+# Author: timkingh
 
 
